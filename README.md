@@ -1,4 +1,4 @@
-# 💫 About Me:
+PRINCE GUPTA 
 🔭 I’m currently working on Frontend developer<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning React JS<br>💬 Ask me about<br>⚡ Fun fact
 
 
