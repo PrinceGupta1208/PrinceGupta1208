@@ -1,4 +1,9 @@
-PRINCE GUPTA 
+<div class="border">
+  <p>FRONTEND DEVELOPER</p>
+  <h1>PRINCE GUPTA </h1>
+  <p>DESING × MOTION × CODE</p>
+</div>
+
 🔭 I’m currently working on Frontend developer<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning React JS<br>💬 Ask me about<br>⚡ Fun fact
 
 
