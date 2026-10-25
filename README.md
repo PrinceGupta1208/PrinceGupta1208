@@ -1,111 +1,23 @@
-
-<!-- Replace YOUR_GITHUB_USERNAME with your actual GitHub username -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:312E81,100:06B6D4&height=180&section=header&text=PRINCE%20GUPTA&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Creative%20UI%20Builder&descAlignY=60&descSize=16" />
-
-<a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/PrinceGupta1208)">
-  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Frontend-Developer-06B6D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Always-Learning-8B5CF6?style=for-the-badge" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Building+Modern+Websites;Learning+React+JS;Designing+Creative+Interfaces;Turning+Ideas+Into+Code" />
-
+<div class="border">
+  <p>FRONTEND DEVELOPER</p>
+  <h1>PRINCE GUPTA </h1>
+  <p>DESING × MOTION × CODE</p>
 </div>
 
----
+🔭 I’m currently working on Frontend developer<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning React JS<br>💬 Ask me about<br>⚡ Fun fact
 
-## 👋 About Me
 
-<table>
-<tr>
-<td width="60%">
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prince Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prince177614@gmail.com) 
 
-### Hey, I'm Prince Gupta! 👨‍💻
-
-I'm a frontend developer who enjoys building beautiful, interactive web experiences.
-
-- 🚀 Currently working on frontend development
-- 🌱 Learning React JS
-- 🎨 Interested in modern UI design
-- 🤝 Open to collaborating on projects
-- ⚡ Always exploring new technologies
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME](https://github.com/PrinceGupta1208)&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" width="100%" />
-
-</td>
-</tr>
-</table>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=PrinceGupta1208&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=PrinceGupta1208&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrinceGupta1208&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=PrinceGupta1208&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌐 Connect With Me
-
-<div align="left">
-
-<a href="[https://github.com/YOUR_GITHUB_USERNAME](https://github.com/PrinceGupta1208)">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="prince177614@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## ⚡ Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js&theme=dark" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nextjs&theme=dark" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs&theme=dark" />
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0B1220&title_color=22D3EE&icon_color=A78BFA&text_color=E2E8F0" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B1220&title_color=22D3EE&text_color=E2E8F0" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=[PrinceGupta1208](https://github.com/PrinceGupta1208)&theme=tokyonight&hide_border=true&background=0B1220&ring=8B5CF6&fire=22D3EE&currStreakLabel=22D3EE" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Thanks for visiting my profile!
-
-**Keep Learning · Keep Building · Keep Growing**
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:312E81,100:020617&height=100&section=footer" />
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
