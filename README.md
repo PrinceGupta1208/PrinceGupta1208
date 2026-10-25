@@ -1,23 +1,98 @@
-<div class="border">
-  <p>FRONTEND DEVELOPER</p>
-  <h1>PRINCE GUPTA </h1>
-  <p>DESING × MOTION × CODE</p>
+
+<!-- PROFILE HEADER -->
+
+<div align="center">
+
+# ⚡ PRINCE GUPTA
+
+### `FRONTEND DEVELOPER` · `DESIGN` · `MOTION` · `CODE`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:111c44,100:581c87&height=3" width="100%" />
+
+### 🚀 Building Modern Web Experiences
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=00C8FF&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+JS+Learner;Creative+UI+Designer;Always+Learning+New+Things)](https://git.io/typing-svg)
+
 </div>
 
-🔭 I’m currently working on Frontend developer<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning React JS<br>💬 Ask me about<br>⚡ Fun fact
+---
 
+## 👨‍💻 About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prince Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prince177614@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=PrinceGupta1208&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=PrinceGupta1208&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=PrinceGupta1208&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 I'm currently working on **Frontend Development**
+- 🤝 I'm looking to collaborate on **Creative Projects**
+- 🌱 I'm currently learning **React JS**
+- 💬 Ask me about **HTML, CSS, JavaScript**
+- ⚡ Fun fact: I love building creative UIs.
 
 ---
-[![](https://komarev.com/ghpvc/?username=PrinceGupta1208&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<p>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-FF3366?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/PrinceGupta1298">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PrinceGupta1298&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00C8FF&icon_color=BC6CFF&text_color=E2E8F0&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceGupta1298&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00C8FF&text_color=E2E8F0" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=PrinceGupta1298&theme=tokyonight&hide_border=true&background=030712&ring=8B5CF6&fire=FF6B35&currStreakLabel=00C8FF" />
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrinceGupta1298&theme=tokyonight" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+**Keep Coding · Keep Creating · Keep Learning**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,50:312E81,100:0891B2&height=4" width="100%" />
+
+</div>
+
